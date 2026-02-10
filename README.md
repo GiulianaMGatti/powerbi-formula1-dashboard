@@ -1,39 +1,34 @@
 # powerbi-formula1-dashboard
 Interactive data analysis dashboard built in Power BI exploring historical Formula 1 statistics and performance metrics.
 
-# Formula 1 Historical Dashboard (Power BI)
+# Formula 1 Historical Dashboard — Power BI
 
-Interactive Power BI dashboard exploring historical Formula 1 statistics (1950–2022).  
-The report is designed for exploratory analysis and storytelling through multiple pages, filters, and drill-down views.
+Interactive Power BI report analyzing historical Formula 1 data (1950–2022) to explore performance trends, circuit insights, and championship evolution.
 
-## Overview
-This project analyzes key Formula 1 trends across seasons, circuits, drivers, and teams.  
-It includes dedicated views for:
-- Seasons overview and historical evolution
-- Circuit and race insights
-- Performance comparisons
-- Champions analysis
+## Project Goal
+The objective of this project was to practice data storytelling and dashboard navigation by transforming structured datasets into an interactive analytical experience.
 
-## What you’ll find
-- KPI overview and season-level exploration
-- Multi-page navigation for different analytical angles
-- Filters/slicers to support interactive exploration
+## Key Features
+- Multi-page dashboard navigation
+- KPI exploration across seasons
+- Driver and team performance insights
+- Circuit-level comparisons
+- Historical champion analysis
+- Interactive filtering and slicing
 
 ## Tech Stack
-- Power BI Desktop (`.pbix`)
-- Data modeling, measures, and interactive report design
+- Power BI Desktop
+- Data modeling
+- Interactive visualization design
 
-## Repository contents
-- `TPF1_DashBoard.pbix` — Power BI report file
-- `/screenshots` — dashboard preview images (recommended)
+## Repository Contents
+- `TPF1_DashBoard.pbix` — Main dashboard file
+- `/screenshots` — Visual preview
 
-## How to view
-1. Download `TPF1_DashBoard.pbix`
-2. Open with Power BI Desktop
+## Preview
+(Add screenshots here)
 
-## Screenshots
-Add a few screenshots in `/screenshots` and link them here, e.g.:
-![Dashboard Preview](screenshots/cover.png)
+## Author
+Giuliana Mandrini Gatti  
+www.linkedin.com/in/giuliana-mandrini-gatti-a03a8a1a7
 
-## Contact
-- LinkedIn: www.linkedin.com/in/giuliana-mandrini-gatti-a03a8a1a7
